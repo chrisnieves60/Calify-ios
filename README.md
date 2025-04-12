@@ -15,17 +15,17 @@ Calify is a minimalist iOS app that uses an LLM (GPT-4o) to estimate calories, p
 ## 📸 Screenshots
 
 ### 🔤 Meal Input
-<img src="./photos/Screenshot1.png" width="300"/>
+<img src="./screenshots/Screenshot1.png" width="300"/>
 
 ---
 
 ### 📊 AI Estimate + Accuracy Scoring
-<img src="./photos/Screenshot2.png" width="300"/>
+<img src="./screenshots/Screenshot2.png" width="300"/>
 
 ---
 
 ### 🧾 Daily Summary
-<img src="./photos/Screenshot3.png" width="300"/>
+<img src="./screenshots/Screenshot3.png" width="300"/>
 
 ---
 
